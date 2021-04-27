@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run eathquake_app.py
+web: sh setup.sh && streamlit run ma_346project.py
